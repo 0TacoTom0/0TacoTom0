@@ -3,7 +3,7 @@
 I am a student currently studying at Burton and South Derbyshire College.
 
 Experience: <br />
--Python
--C#
--HTML, CSS, JavaScript
+-Python <br />
+-C# <br />
+-HTML, CSS, JavaScript <br />
 -Unreal Engine
