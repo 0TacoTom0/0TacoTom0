@@ -2,7 +2,7 @@
 
 I am a student currently studying at Burton and South Derbyshire College.
 
-Experience:
+Experience: <br />
 -Python
 -C#
 -HTML, CSS, JavaScript
