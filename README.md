@@ -1,16 +1,14 @@
-### Hi there 👋
+# Current interests: 
 
-<!--
-**0TacoTom0/0TacoTom0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥 Web Development:<br>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕹 Games Development:<br>
+<ul>
+<li>Unreal Engine</li>
+<li>Blender</li>
+</ul>
